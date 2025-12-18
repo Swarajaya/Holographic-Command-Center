@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyTorch checkpoints / large models
+*.pth
+*.pt
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Outputs
+*.avi
+*.mp4
